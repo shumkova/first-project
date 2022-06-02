@@ -1,0 +1,9 @@
+.grid_cols_4 {
+  margin-right: -32px;
+}
+
+.grid_cols_4 .grid__item {
+  margin-right: 32px;
+  margin-bottom: 60px;
+  width: calc(25% - 32px);
+}

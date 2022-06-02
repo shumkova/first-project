@@ -1,0 +1,45 @@
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/list/list.css);
+@import url(../blocks/list/_numbered/list_numbered.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__link/header__link.css);
+
+@import url(../blocks/section-title.css);
+@import url(../blocks/section-subtitle.css);
+
+@import url(../blocks/description/description.css);
+
+@import url(../blocks/two-columns/two-columns.css);
+@import url(../blocks/two-columns/__brief/two-columns__brief.css);
+@import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
+@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
+
+@import url(../blocks/techniques/techniques.css);
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__description/cards__description.css);
+
+@import url(../blocks/digits/digits.css);
+
+@import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/kaufman/__subtitle/kaufman__subtitle.css);
+
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__text/card__text.css);
+
+@import url(../blocks/grid/grid.css);
+@import url(../blocks/grid/_cols/grid_cols_4.css);
+@import url(../blocks/grid/_cols/grid_cols_5.css);
+
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/__logo-zone/resouces__logo-zone.css);
+@import url(../blocks/resources/__link/resources__link.css);

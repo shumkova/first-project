@@ -1,0 +1,7 @@
+.card {
+  word-break: break-word;
+}
+
+.card *:last-child {
+  margin-bottom: 0;
+}
